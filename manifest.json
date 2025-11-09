@@ -1,0 +1,10 @@
+{
+  "id": "bookshelf-open-pdf",
+  "name": "Bookshelf Open PDF",
+  "version": "0.1.0",
+  "minAppVersion": "0.1.0",
+  "description": "additional custom for bookshelf obsidian plugin",
+  "author": "g0odDuck",
+  "isDesktopOnly": true
+}
+

@@ -1,0 +1,11 @@
+{
+  "name": "bookshelf-open-pdf",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "esbuild main-source.js --bundle --outfile=main.js --format=cjs --allow-overwrite --external:obsidian"
+  },
+  "devDependencies": {
+    "esbuild": "^0.23.1"
+  }
+}
+
