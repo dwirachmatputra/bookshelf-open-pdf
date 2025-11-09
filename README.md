@@ -27,7 +27,7 @@ This plugin helps you open the PDF file when you click link button.
 6. Run `npm install` using cmd.
 7. If there is no error then run `npm run build` and make sure there is no error.
 8. After everything ok, then go to setting > community plugins > find Obsidian Open PDF > turn on.
-9. Close app, then open app again.
+9. Close Obsidian, then open it again.
 10. The plugin should be running now.
 ---
 ## Usage
